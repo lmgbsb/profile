@@ -1,7 +1,7 @@
 @import url("http://fonts.googleapis.com/css?family=Open+Sans:400,300,700|Poppins:300,400,500,700");
 
 img{
-      width: 150px;
+      width: 190px;
       border-radius: 50%;
     }
 
@@ -20,7 +20,7 @@ img{
 .card {
   background-color: white;
   font-family: 'Open Sans', sans-serif;
-  width: 700px;
+  width: 650px;
   margin: auto;
   text-align: center;
   color: #404040;
