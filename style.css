@@ -30,6 +30,10 @@ img{
 
 }
 
+.curriculo{
+  font-family: calibri, arial;
+  font-size: 20px;
+}
 
 .list-inline > li {
   display: inline-block;
